@@ -1,0 +1,210 @@
+[
+    {
+        "title": "Materi",
+        "main": [
+            {
+                "title": "Pendahuluan",
+                "img": "..."
+            },
+            {
+                "title": "Pengertian",
+                "img": "https://cdn.discordapp.com/attachments/760922086423527492/1104350500624805898/001.jpg"
+            },
+            {
+                "title": "Etika Penanganan Kelinci",
+                "img": "https://cdn.discordapp.com/attachments/760922086423527492/1104350500876451950/002.jpg"
+            },
+            {
+                "title": "Sistem Urinaria Kelinci",
+                "img": "https://cdn.discordapp.com/attachments/760922086423527492/1104350501115531374/003.jpg"
+            }
+        ],
+        "content": [
+            {
+                "title": "Pendahuluan",
+                "body": [
+                    {
+                        "name": "Pendahuluan",
+                        "text": "Aplikasi berbasis Android ini berisikan materi-materi mengenai penanganan hewan coba dalam kegiatan praktikum pengamatan struktur organ Ekskresi ( cuniculus) yang dapat digunakan untuk proses belajar pada mata pelajaran biologi. Selain pengetahuan Sistem ekskresi, modul ini disertai tentang etika penanganan hewan kelinci  pemeliharaan hingga pasca pembedahan yang menjadi hal penting dalam penelitian hewan coba laboratorium. Aplikasi ini dikembangkan dengan tujuan memfasilitasi siswa untuk belajar mandiri di mana pun dan kapan pun.  Materi yang disertakan dalam aplikasi ini diharapkan dapat meningkatkan pengetahuan prosedural siswa dalam materi sistem urinaria serta etika penanganan hewan coba. Aplikasi berbasis Android meliputi: \n Materi 1 : Pengertian \n Materi 2 : Etika Penanganan Kelinci (Oryctolagus cuniculus \n Materi 3 : Sistem Urinaria Kelinci \n Materi 4 : Kelainan dan Penyakit"
+                    }
+                ]
+            },
+            {
+                "title": "Pengertian",
+                "body": [
+                    {
+                        "name": "Sistem Ekskresi",
+                        "text": "Sistem ekskresi adalah sistem yang melakukan pengeluaran zat sisa hasil metabolisme tubuh (eliminasi) yang tidak dibutuhkan untuk menjaga  tubuh melalui osmoregulasi. Osmoregulasi adalah mekanisme pengaturan jumlah pelarut dan zat terlarut dalam tubuh. Zat yang dibuang melalui sistem ekskresi: \n 1. Air \n 2. Garam-garam mineral. \n 3. Sisa metabolisme karbohidrat dan lemak berupa air dan CO2. \n 4. Sisa metabolisme protein berupa nitrogen dalam bentuk urea, asam urat atau amonia \n Organ-organ ekskresi terdiri dari :",
+                        "img": "https://cdn.discordapp.com/attachments/760922086423527492/1104356937027551292/004.webp"
+                    },
+                    {
+                        "name": "Etika Penanganan Hewan",
+                        "text": "Seiring berkembangnya IPTEK menuntut manusia untuk melakukan banyak inovasi. Dalam ilmu sains, telah banyak dilakukan penelitian untuk memecahkan Penggunaan hewan uji coba tesebut mendapatkan kontra dari kelompok animal right (hak asasi hewan) karena dinilai melakukan penyiksaan terhadap hewan coba. Para ilmuwan pun sepakat bahwa penelitian menggunakan hewan diperbolehkan, namun dengan menerapkan etika dalam penanganan hewan uji atau yang disebut dengan ethical clearance sesuai dengan kaidah 3R dan prinsip 5 Kebebasan (freedom) \n\n Kaidah 3R Russell dan Burch (1959): \n 1. Replacement (penggantian) \n 2. Reduction (pengurangan) \n 3. Refinement (perbaikan) \n \n Prinsip 5 Kebebasan (freedom) \n 1. Bebas dari rasa tidak nyaman \n 2. Bebas dari rasa lapar dan haus \n 3. Bebas dari rasa nyeri, luka, dan penyakit \n 4. Bebas mengekspresikan perilaku normal \n a. Bebas dari rasa takut dan stress."
+                    }
+                ]
+            },
+            {
+                "title": "Etika Penanganan Kelinci",
+                "body": [
+                    {
+                        "name": "Pemeliharaan dan Preparasi",
+                        "urlVideo": "..."
+                    },
+                    {
+                        "name": "Pembedahan",
+                        "urlVideo": "..."
+                    },
+                    {
+                        "name": "Pasca Pembedahan",
+                        "urlVideo": "..."
+                    }
+                ]
+            },
+            {
+                "title": "Sistem Urinaria Kelinci",
+                "body": [
+                    {
+                        "name": "Ginjal",
+                        "text": [
+                            {
+                                "text": "Ginjal adalah organ ekskresi utama pada mamalia.",
+                                "urlImg": "..."
+                            },
+                            {
+                                "text": "Ginjal berjumlah sepasang yang terletak di kanan dan kiri tulang pinggang dalam rongga tubuh bagian dorsal (punggung).",
+                                "urlImg": "https://cdn.discordapp.com/attachments/1018254336649859072/1104937295875948624/ginjal.jpeg"
+                            },
+                            {
+                                "text": "Ginjal tersusun atas tiga lapisan: ",
+                                "urlImg": "https://cdn.discordapp.com/attachments/1018254336649859072/1104937704375988347/tiga_lapis.jpg",
+                                "keterangan": [
+                                    {
+                                        "main": "Keterangan",
+                                        "content": [
+                                            {
+                                                "title": "Korteks (kulit ginjal)",
+                                                "text": "Tempat terjadinya filtrasi, terdapat badan Malphigi (Glomerulus dan Kapusla Bowman). "
+                                            },
+                                            {
+                                                "title": "Medulla (sumsum ginjal)",
+                                                "text": "Tempat terjadinya reabsorpsi dan augmentasi, terdapat tubulus-tubulus ginjal. "
+                                            },
+                                            {
+                                                "title": "Pelvis (rongga ginjal)",
+                                                "text": "Merupakan muara tubulus kolektivus dan hulu ureter. "
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Nefron",
+                        "text": [
+                            {
+                                "text": "Ginjal tersusun atas satuan unit fungsional yang disebut nefron.",
+                                "urlImg": null
+                            },
+                            {
+                                "text": "Nefron memiliki struktur sebagai berikut: ",
+                                "urlImg": "https://cdn.discordapp.com/attachments/1018254336649859072/1104976699667517522/neufron.jpeg",
+                                "keterangan": [
+                                    {
+                                        "main": "Keterangan",
+                                        "content": [
+                                            {
+                                                "title": "Glomerulus",
+                                                "text": "merupakan kapiler ginjal yang melakukan filtrasi darah. "
+                                            },
+                                            {
+                                                "title": "Kapsula Bowman",
+                                                "text": "Merupakan selubung glomerulus yang berfungsi menampung hasil filtrasi darah."
+                                            },
+                                            {
+                                                "title": "Tubulus kontortus proximal",
+                                                "text": "Merupakan saluran nefron lanjutan kapsula Bowman yang melakukan reabsorpsi."
+                                            },
+                                            {
+                                                "title": "Lengkung Henle",
+                                                "text": "Merupakan saluran lanjutan t.k. proximal yang berbentuk lengkung dan melakukan reabsorpsi."
+                                            },
+                                            {
+                                                "title": "Tubulus kontortus distal",
+                                                "text": "saluran nefron yang melakukan augmentasi."
+                                            },
+                                            {
+                                                "title": "Tubulus kolektivus (pengumpul)",
+                                                "text": "Merupakan saluran nefron yang mengumpulkan urin"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mekanisme Pembentukan Urin",
+                        "urlVideo": "..."
+                    },
+                    {
+                        "name": "Faktor yang mempengaruhi Pembentukan Urin",
+                        "text": [
+                            {
+                                "main": "Proses pembentukan urin dipengaruhi oleh :",
+                                "content": [
+                                    {
+                                        "name": "Hormon anti-diuretik (ADH)",
+                                        "text": "ADH dihasilkan kelenjar hipofisis yang mengatur jumlah cairan dan volume urin akhir pada t.k. distal dan t. kolektivus"
+                                    },
+                                    {
+                                        "name": "Zat diuretik",
+                                        "text": "Konsumsi zat diuretik (misalnya teh) menghambat reabsorpsi air dan menyebabkan volume urin bertambah."
+                                    },
+                                    {
+                                        "name": "Suhu",
+                                        "text": "Ketika suhu panas, respirasi sel meningkat dan cairan tubuh keluar melalui keringat, sehingga volume urin berkurang. Ketika respirasi sel menurun dan cairan tetap disimpan dalam tubuh, sehingga volume urin bertambah."
+                                    },
+                                    {
+                                        "name": "Jumlah air atau cairan tubuh",
+                                        "text": "Warna urin disebabkan oleh adanya urobilin, namun kepekatannya diatur volume urin."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Kelainan dan Penyakit",
+                        "main": "Kelainan dan Penyakit dalam Sistem Ekskresi berupa :",
+                        "body": [
+                            {
+                                "text": "Gagal ginjal, adalah kegagalan umum ginjal dalam membentuk urin yang menyebabkan penyakit lain."
+                            },
+                            {
+                                "text": "Nefritis, adalah peradangan nefron karena bakteri Streptococcus."
+                            },
+                            {
+                                "text": "Anuria (anuresis), adalah tidak terbentuknya urin akibat gagal ginjal"
+                            },
+                            {
+                                "text": "Diabetes mellitus (kencing manis), akibat sedikitnya produksi hormon insulin."
+                            },
+                            {
+                                "text": "Diabetes insipidus, adalah penyakit beser atau sering buang air kecil karena kurangnya produksi hormon ADH menuju t. k. distal dan t. kolektivus."
+                            },
+                            {
+                                "text": "Albuminuria, urin mengandung protein karena tidak disaring oleh glomerulus."
+                            },
+                            {
+                                "text": "Hematuria, adalah ditemukannya sel-sel darah dalam urin."
+                            },
+                            {
+                               "text": "Batu ginjal, adalah terbentuknya kristal atau endapan mineral kalsium dalam pelvis, tubulus ginjal atau kantung kemih"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

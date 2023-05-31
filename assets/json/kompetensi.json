@@ -1,0 +1,93 @@
+[
+    {
+        "title": "Kompetensi",
+        "content": [
+            {
+                "id": 0,
+                "title": "Kompetensi Dasar",
+                "body": [
+                    {
+                        "id": 0,
+                        "name": "KD 3.9",
+                        "text": "Menganalisis hubungan antara struktur jaringan penyusun organ pada sistem ekskresi dalam kaitannya dengan bioproses dan gangguan fungsi yang dapat terjadi pada sistem ekskresi manusia"
+                    },
+                    {
+                        "id": 2,
+                        "name": "KD 4.9",
+                        "text": "Menyajikan hasil analisis pengaruh pola hidup terhadap kelainan pada struktur dan fungsi organ yang meyebabkan gangguan pada sistem ekskresi serta kaitannya dengan teknologi"
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "title": "Indikator",
+                "body": [
+                    {
+                        "id": 0,
+                        "text": "Menjelaskan tatacara pembedahan secara ethical clearance intuk mengetahui struktur dan fungsi organ pada sistem ekskresi"
+                    },
+                    {
+                        "id": 1,
+                        "text": "Menjelaskan struktur dan fungsi organ pada sistem ekskresi pada manusia dan hewan mamalia lain (Kelinci)"
+                    },
+                    {
+                        "id": 2,
+                        "text": "Menjelaskan proses ekskresi"
+                    },
+                    {
+                        "id": 3,
+                        "text": "Menjelaskan kelainan dan penyakit yang berhubungan dengan sistem eksresi"
+                    },
+                    {
+                        "id": 4,
+                        "text": "Menjelaskan teknologi yang berkaitan dengan kesehatan sistem ekskresi"
+                    },
+                    {
+                        "id": 5,
+                        "text": "Menyajikan hasil analisis pengaruh pola hidup terhadap kelainan pada struktur dan fungsi organ yang meyebabkan gangguan pada sistem ekskresi serta kaitannya dengan teknologi"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Tujuan Pembelajaran",
+                "body": [
+                    {
+                      "id": 0,
+                      "text": "Siswa dapat menjelaskan tatacara pembedahan secara ethical clearance intuk mengetahui struktur dan fungsi organ pada sistem ekskresi"
+                    },
+                    {
+                      "id": 1,
+                      "text": "Siswa dapat menjelaskan struktur dan fungsi organ pada sistem ekskresi pada manusia dan hewan mamalia lain (Kelinci)"
+                    },
+                    {
+                      "id": 2,
+                      "text": "Siswa dapat menjelaskan proses ekskresi"
+                    },
+                    {
+                      "id": 3,
+                      "text": "Siswa dapat menjelaskan kelainan dan penyakit yang berhubungan dengan sistem eksresi"
+                    },
+                    {
+                      "id": 4,
+                      "text": "Siswa dapat menjelaskan teknologi yang berkaitan dengan kesehatan sistem ekskresi"
+                    },
+                    {
+                      "id": 5,
+                      "text": "Siswa dapat menyajikan hasil analisis pengaruh pola hidup terhadap kelainan pada struktur dan fungsi organ yang meyebabkan gangguan pada sistem ekskresi serta kaitannya dengan teknologi"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Peta Konsep",
+                "body": [
+                    {
+                        "id": 0,
+                        "imageUrl": "https://cdn.discordapp.com/attachments/1104115558649176094/1104115990956089365/Peta_Konsep.png"
+                    }
+                ]
+            }
+        ]
+    }
+]

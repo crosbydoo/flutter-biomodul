@@ -1,0 +1,33 @@
+name: e_modul
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: ">=2.19.6 <3.0.0"
+
+dependencies:
+  avatar_glow: ^2.0.2
+  chewie: ^1.4.0
+  elegant_notification: ^1.9.1
+  flutter:
+    sdk: flutter
+  fluttertoast: ^8.2.1
+  get: 4.6.5
+  google_fonts: ^4.0.4
+  lottie: ^2.3.2
+  recase: ^4.1.0
+  video_player: ^2.6.1
+  webview_flutter: ^4.2.0
+  youtube_player_flutter: ^8.1.2
+
+dev_dependencies:
+  flutter_lints: 2.0.1
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/lotties/
+    - assets/json/

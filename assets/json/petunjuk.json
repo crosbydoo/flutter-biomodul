@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Petunjuk",
+    "main": "Aplikasi ini berisikan materi mengenai struktur fungsi dan etika penanganan hewan dalam sistem urinaria yang dapat digunakan untuk mendukung proses  aplikasi ini akan dilengkapi dengan gambar, video, tujuan pembelajaran, petunjuk penggunaan dan pengerjaan latihan soal sehingga siswa dapat menggunakannya secara mandiri  mencapai keberhasilan belajar. Selain itu siswa dapat menggunakannya baik di dalam maupun di luar kelas, serta secara individu maupun kelompok. Adapun langkah-langkah yang perlu diikuti  dalam menggunakan aplikasi ini, sebagai berikut:",
+    "content": [
+      {
+        "id": 0,
+        "title": "Langkah 1",
+        "body": "Download program Sistem Ekskresi Urinaria melalui aplikasi Google Play Store."
+      },
+      {
+        "id": 1,
+        "title": "Langkah 2",
+        "body": "Install dan tunggu prosesnya hingga aplikasi terpasang di handphone Anda."
+      },
+      {
+        "id": 2,
+        "title": "Langkah 3",
+        "body": "Buka aplikasi kemudian perhatikan susunan menu dan urutan materinya. Materi dipelajari sesuai urutan, pahami pemaparan konsep-konsep yang tersedia, setelah itu dilanjutkan mengerjakan soal tes fomartif yang ada pada akhir kegiatan."
+      },
+      {
+        "id": 3,
+        "title": "Langkah 4",
+        "body": "Jawablah setiap soal tes formatif, kemudian koreksi hasil tes dengan pedoman penskoran yang tersedia. Apabila telah mencapai skor diatas 80 maka Anda boleh melanjutkan ke materi selanjutnya, apabila belum maka pelajari kembali topik yang belum ada pahami."
+      },
+      {
+        "id": 4,
+        "title": "Langkah 5",
+        "body": "Pada langkah 4 yang dimaksudkan agar pembelajaran mengenai sistem eksresi urinaria ini dapat dipahami dengan baik dan benar, sehingga Anda dapat mengenal materi lebih dekat."
+      },
+      {
+        "id": 5,
+        "title": "Langkah 6",
+        "body": "Jika mengalami kendala atau kesulitan menggunakan aplikasi ini, dapat hubungi pengembang lewat kontak yang tertera pada laman Profile"
+      }
+    ]
+  }
+]
