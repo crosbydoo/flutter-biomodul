@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.crosbydev.e_modul">
    <application
-        android:label="e_modul"
+        android:label="E-Modul Urinaria"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

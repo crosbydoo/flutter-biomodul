@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:youtube_player_flutter/youtube_player_flutter.dart';
 
 class SistemUraniaView extends GetView {
   const SistemUraniaView({Key? key}) : super(key: key);
@@ -621,60 +620,6 @@ class SistemUraniaView extends GetView {
               ),
               Column(
                 children: [
-                  Container(
-                    margin: const EdgeInsets.only(
-                      top: 30,
-                    ),
-                    alignment: Alignment.centerLeft,
-                    width: double.infinity,
-                    height: 45,
-                    decoration: const BoxDecoration(
-                      color: Color(0XFF088395),
-                      borderRadius: BorderRadius.only(
-                        topLeft: Radius.circular(12),
-                        topRight: Radius.circular(12),
-                      ),
-                    ),
-                    child: Container(
-                      margin: const EdgeInsets.only(
-                        left: 30,
-                      ),
-                      child: Text(
-                        'Mekanisme Pembentukan Urin',
-                        style: GoogleFonts.poppins(
-                          fontSize: 18,
-                          fontWeight: FontWeight.bold,
-                          color: Colors.white,
-                        ),
-                      ),
-                    ),
-                  ),
-                  Wrap(
-                    children: [
-                      Container(
-                        width: double.infinity,
-                        decoration: const BoxDecoration(
-                          color: Color(0XFF05BFDB),
-                          borderRadius: BorderRadius.only(
-                            bottomLeft: Radius.circular(12),
-                            bottomRight: Radius.circular(12),
-                          ),
-                        ),
-                        child: Container(
-                          margin: const EdgeInsets.symmetric(
-                              horizontal: 10, vertical: 10),
-                          decoration: const BoxDecoration(
-                            color: Colors.amber,
-                          ),
-                          child: const VideoPlayer(),
-                        ),
-                      ),
-                    ],
-                  ),
-                ],
-              ),
-              Column(
-                children: [
                   Wrap(
                     children: [
                       Container(
@@ -1245,45 +1190,6 @@ class SistemUraniaView extends GetView {
             ],
           ),
         ),
-      ),
-    );
-  }
-}
-
-class VideoPlayer extends StatefulWidget {
-  const VideoPlayer({super.key});
-
-  @override
-  State<VideoPlayer> createState() => _VideoPlayerState();
-}
-
-class _VideoPlayerState extends State<VideoPlayer> {
-  final url = 'https://www.youtube.com/watch?v=_1UlylSfSTk';
-
-  late YoutubePlayerController _youtubePlayerController;
-
-  @override
-  void initState() {
-    final videoID = YoutubePlayer.convertUrlToId(url);
-    _youtubePlayerController = YoutubePlayerController(
-      initialVideoId: videoID!,
-    );
-    super.initState();
-  }
-
-  @override
-  void dispose() {
-    _youtubePlayerController.dispose();
-    super.dispose();
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    return AspectRatio(
-      aspectRatio: 16 / 9,
-      child: YoutubePlayer(
-        controller: _youtubePlayerController,
-        showVideoProgressIndicator: true,
       ),
     );
   }

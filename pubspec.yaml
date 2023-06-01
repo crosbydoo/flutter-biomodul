@@ -19,11 +19,19 @@ dependencies:
   video_player: ^2.6.1
   webview_flutter: ^4.2.0
   youtube_player_flutter: ^8.1.2
+  flutter_launcher_icons: ^0.13.1
 
 dev_dependencies:
   flutter_lints: 2.0.1
   flutter_test:
     sdk: flutter
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/ginjal.png"
+  adaptive_icon_background: "#ffffff"
+  adaptive_icon_foreground: "assets/images/logo_foreground.png"
 
 flutter:
   uses-material-design: true
