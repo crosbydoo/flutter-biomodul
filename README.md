@@ -15,6 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-- Author :  Rahma Fanidia
+- Author :  Rahma Fanidia ( Mahasiswa FMIPA UNY Angkatan 2019)
 
 - Developer : Ristu Aji Wijayanto (Crosbydev)
